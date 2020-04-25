@@ -15,6 +15,6 @@ USER = ''
 PASS = ''
 
 DATE = time.strftime("%Y-%m-%d", time.localtime())
-LOG_DATE = time.strftime("%Y-%m-%d.%H:%M:%S", time.localtime())
-LOG_PATH='logs'
-LOG_NAME=os.path.join(LOG_PATH, 'PublixCoup_{0}.log'.format(LOG_DATE))
+LOG_DATE = time.strftime("%Y-%m-%d.%H%M%S", time.localtime())
+LOG_PATH = 'logs'
+LOG_NAME = os.path.join(LOG_PATH, 'PublixCoup_{0}.log'.format(LOG_DATE))

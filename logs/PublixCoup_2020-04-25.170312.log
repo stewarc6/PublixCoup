@@ -1,0 +1,21 @@
+2020-04-25 17:03:12,932.932 - [DEBUG] - Sat Apr 25 17:03:12 2020
+2020-04-25 17:03:12,933.933 - [INFO] - Initializing
+2020-04-25 17:03:12,933.933 - [INFO] -  .. Launching the Headless Firefox
+2020-04-25 17:03:20,690.690 - [INFO] -  .. Firefox Successfully Initialized
+2020-04-25 17:03:25,514.514 - [INFO] - Logging In
+2020-04-25 17:03:26,754.754 - [INFO] -  .. Inserting Credentials
+2020-04-25 17:03:30,591.591 - [INFO] -  .. Successfully Logged In
+2020-04-25 17:03:33,655.655 - [INFO] - Navigating to the digital coupons section
+2020-04-25 17:03:35,533.533 - [INFO] -  .. Waiting 15 seconds for page to load
+2020-04-25 17:03:50,547.547 - [INFO] -  .. Digital Coupons page loaded
+2020-04-25 17:03:50,563.563 - [INFO] - Clicking the show-all button
+2020-04-25 17:03:54,681.681 - [INFO] -  .. Waiting 30 Seconds for all the coupons to load on the page
+2020-04-25 17:04:33,314.314 - [INFO] -  .. You clipped 2 coupons.
+2020-04-25 17:04:36,317.317 - [INFO] - Completed Successfully.
+2020-04-25 17:04:36,318.318 - [INFO] - Cleaning Up
+2020-04-25 17:04:36,318.318 - [INFO] -  .. Closing..
+2020-04-25 17:04:37,107.107 - [INFO] -  .. Quiting..
+2020-04-25 17:04:37,111.111 - [INFO] -  .. Nuking..
+2020-04-25 17:04:37,131.131 - [INFO] - done.
+2020-04-25 17:04:37,131.131 - [INFO] - Sat Apr 25 17:04:37 2020
+2020-04-25 17:04:37,131.131 - [INFO] - TOTAL TIME IN MINUTES: 1.4033166249593099
